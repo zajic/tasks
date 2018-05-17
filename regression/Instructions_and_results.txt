@@ -1,0 +1,5 @@
+* Use a regression method of your choice to fit the data in the file.
+* Use the Python 3.6 language.
+* Consider a general model y = f(x) + error an unknown function f and i.i.d. N(0,sigma) errors.
+* Compare the fitted model with a plot of the variable Ey that corresponds to Ey = f(x).
+* Comment on the model and the result.
