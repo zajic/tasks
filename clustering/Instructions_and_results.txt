@@ -1,6 +1,0 @@
-* Cluster the data in the data.csv file into two clusters using a method of your choice. 
-* Use clustering methods from scikit-learn or some other Python library.
-* Use the Python 3.6 language.
-* Display the result of the clustering in a plot.
-* To verify the quality of the clustering, color the points in the plot using the variable "ClusterID".
-* Comment on the clustering method and the result.
